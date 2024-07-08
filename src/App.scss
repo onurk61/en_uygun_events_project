@@ -1,0 +1,28 @@
+body,
+div,
+span,
+input,
+textarea,
+button {
+  font-family: 'Poppins' !important;
+}
+
+body {
+  margin: 0;
+}
+
+.kpiCompTitle {
+  color: var(--Body, #202328);
+  text-align: justify;
+  font-size: 18px !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  line-height: 22px;
+  letter-spacing: 0.5px;
+}
+
+main {
+  overflow: hidden !important;
+  background: rgb(248, 250, 251);
+  min-height: 100vh;
+}
