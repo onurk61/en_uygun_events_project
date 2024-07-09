@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#NETLIFY LİNK 
+
+Go to https://phenomenal-sorbet-d52eb4.netlify.app/home
+
 ## Available Scripts
 
 In the project directory, you can run:
